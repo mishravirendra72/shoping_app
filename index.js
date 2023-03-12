@@ -1,1 +1,0 @@
-Document.getElementById('root').innerHtml = "hello World"
